@@ -97,5 +97,5 @@ project1/
 ## 👩‍💻 Author
 **Imen Hammami**  
 Data Science Intern @ DecodeLabs 2026  
-🔗 [Portfolio](https://loquacious-travesseiro-9ec5ba.netlify.app/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/hammami-imen-939559221/)
+🔗 [Portfolio](imenhammami.netlify.app)  
+🔗 [LinkedIn](linkedin.com/in/hammamiimen)
