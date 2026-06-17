@@ -99,3 +99,9 @@ project1/
 Data Science Intern @ DecodeLabs 2026  
 🔗 [Portfolio](imenhammami.netlify.app)  
 🔗 [LinkedIn](linkedin.com/in/hammamiimen)
+
+## 👩‍💻 Author
+**Imen Hammami**  
+Data Science Intern @ DecodeLabs 2026  
+🔗 [Portfolio](https://imenhammami.netlify.app)  
+🔗 [LinkedIn](https://www.linkedin.com/in/hammamiimen)
