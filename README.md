@@ -76,14 +76,22 @@ project1/
 
 ---
 
-## 📊 Screenshots
-*(Will be added after execution)*
+## 📸 Screenshots
 
----
+### Missing Values Heatmap
+![Missing Values](screenshots/missing_values_heatmap.png)
 
-## ✅ Results
-*(Will be updated after project completion)*
+### Outliers Before vs After
+![Outliers](screenshots/outliers_before_after.png)
 
+### Engineered Features
+![Features](screenshots/engineered_features.png)
+
+### Correlation Heatmap
+![Correlation](screenshots/correlation_heatmap.png)
+
+### Final Business Insights
+![Insights](screenshots/final_insights.png)
 ---
 
 ## 👩‍💻 Author
